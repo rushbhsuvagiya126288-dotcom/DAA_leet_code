@@ -24,6 +24,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0169-majority-element) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
+| [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +124,12 @@
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
