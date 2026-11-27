@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -11,6 +12,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Array
@@ -45,6 +47,7 @@
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -60,6 +63,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
