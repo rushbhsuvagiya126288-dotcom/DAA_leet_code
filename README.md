@@ -44,6 +44,7 @@
 | [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -166,4 +167,16 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
