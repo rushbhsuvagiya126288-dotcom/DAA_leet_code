@@ -37,6 +37,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -233,6 +235,7 @@
 | ------- |
 | [0427-construct-quad-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0427-construct-quad-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3537-fill-a-special-grid](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3537-fill-a-special-grid) |
 ## Stack
 |  |
 | ------- |
