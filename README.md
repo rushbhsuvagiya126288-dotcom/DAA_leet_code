@@ -32,6 +32,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
@@ -59,6 +60,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
 ## Euler's Totient Function
 |  |
 | ------- |
