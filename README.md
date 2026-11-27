@@ -33,6 +33,7 @@
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
@@ -61,6 +62,7 @@
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -124,6 +126,7 @@
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
@@ -152,6 +155,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
@@ -160,6 +164,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Radix Sort
@@ -202,6 +207,7 @@
 | ------- |
 | [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -238,4 +244,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
