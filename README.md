@@ -50,6 +50,7 @@
 | [0372-super-pow](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -76,6 +77,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0427-construct-quad-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Binary Tree
 |  |
 | ------- |
