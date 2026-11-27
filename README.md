@@ -63,6 +63,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -94,6 +95,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -103,11 +105,13 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -252,4 +257,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0973-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
