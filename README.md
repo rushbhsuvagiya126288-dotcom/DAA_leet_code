@@ -22,6 +22,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -39,6 +40,7 @@
 | [0190-reverse-bits](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -134,6 +136,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -143,4 +146,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
