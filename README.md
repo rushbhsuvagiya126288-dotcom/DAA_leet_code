@@ -30,6 +30,7 @@
 | [0427-construct-quad-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/3719-longest-balanced-subarray-i) |
@@ -55,6 +56,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -116,12 +118,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +146,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
@@ -155,6 +160,7 @@
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Segment Tree
 |  |
@@ -169,6 +175,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -213,4 +220,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0654-maximum-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rushbhsuvagiya126288-dotcom/DAA_leet_code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
